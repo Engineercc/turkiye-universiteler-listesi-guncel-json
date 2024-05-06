@@ -1,0 +1,420 @@
+{
+    "universiteler": [
+        {"universiteAdi": "ABDULLAH GÜL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ADIYAMAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AFYON KOCATEPE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AKDENİZ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AKSARAY ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ALANYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ALTINBAŞ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AMASYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANADOLU ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKA TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKARA BİLİM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKARA MEDİPOL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKARA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANTALYA BELEK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ANTALYA BİLİM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ARDAHAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ARTVİN ÇORUH ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU"
+        },
+        {"universiteAdi": "ATATÜRK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ATILIM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AVRASYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BAHÇEŞEHİR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BALIKESİR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BARTIN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BAŞKENT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BATMAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BAYBURT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BEYKOZ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BİNGÖL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BİRUNİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BİTLİS EREN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BOĞAZİÇİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BURSA TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "BURSA ULUDAĞ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ÇAĞ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ÇANKAYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ÇUKUROVA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "DEMİROĞLU BİLİM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "DİCLE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "DOĞUŞ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "DOKUZ EYLÜL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "DÜZCE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "EGE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ERCİYES ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ERZURUM TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "FENERBAHÇE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "FIRAT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "GALATASARAY ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "GAZİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "GAZİANTEP ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "GEBZE TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "GİRESUN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "GÜMÜŞHANE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "HACETTEPE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "HAKKARİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "HALİÇ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "HARRAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "HASAN KALYONCU ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "HİTİT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "IĞDIR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "IŞIK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İBN HALDUN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İNÖNÜ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSKENDERUN TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL AREL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL ATLAS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL AYDIN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL BEYKENT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL BİLGİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL ESENYURT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL GALATA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL GEDİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL GELİŞİM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL KENT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL MEDENİYET ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL MEDİPOL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL OKAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL RUMELİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU"
+        },
+        {"universiteAdi": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU"
+        },
+        {"universiteAdi": "İSTANBUL TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL TİCARET ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL TOPKAPI ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA"
+        },
+        {"universiteAdi": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İSTİNYE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İZMİR BAKIRÇAY ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İZMİR DEMOKRASİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İZMİR EKONOMİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İZMİR KAVRAM MESLEK YÜKSEKOKULU"
+        },
+        {"universiteAdi": "İZMİR TINAZTEPE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ"
+        },
+        {"universiteAdi": "KADİR HAS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KAFKAS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KAPADOKYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KARABÜK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KARADENİZ TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KASTAMONU ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KAYSERİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KIRIKKALE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KIRKLARELİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KİLİS 7 ARALIK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KOCAELİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KOÇ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KONYA GIDA VE TARIM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KONYA TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KTO KARATAY ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "LOKMAN HEKİM ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MALTEPE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MARDİN ARTUKLU ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MARMARA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MEF ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MERSİN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MUDANYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MUNZUR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "MUŞ ALPARSLAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "NECMETTİN ERBAKAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "NUH NACİ YAZGAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ONDOKUZ MAYIS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ORDU ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "OSTİM TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ÖZYEĞİN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "PAMUKKALE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "PİRİ REİS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SABANCI ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SAKARYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SAMSUN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SANKO ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SELÇUK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SİİRT ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SİNOP ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SİVAS CUMHURİYET ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ŞIRNAK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TARSUS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TED ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TOROS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TRABZON ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TRAKYA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TÜRK HAVA KURUMU ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TÜRK-ALMAN ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TÜRKİYE ULUSLARARASI İSLAM, BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "UFUK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "UŞAK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ÜSKÜDAR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "YALOVA ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "YAŞAR ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "YEDİTEPE ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "YILDIZ TEKNİK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "YOZGAT BOZOK ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "YÜKSEK İHTİSAS ÜNİVERSİTESİ"
+        },
+        {"universiteAdi": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ"
+        }
+    ]
+}
